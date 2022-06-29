@@ -1,0 +1,13 @@
+{
+    "firstName": "Test",
+    "lastName": "User",
+    "birthdate": "1970-01-01",
+    "email": "testemail@gmail.com",
+    "phone": "8817191771",
+    "street1": "1 Main St.",
+    "street2": "Apartment A",
+    "city": "Hyderabad",
+    "stateProvince": "Telangana",
+    "postalCode": "500032",
+    "country": "IND"
+}
