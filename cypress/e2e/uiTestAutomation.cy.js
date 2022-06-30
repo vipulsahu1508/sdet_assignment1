@@ -74,7 +74,7 @@ describe('SDET Assignment UI Aurtomation',()=>{
         cy.get('#uniform-fileUpload span').should('contain','igg-report.pdf')
     })
 
-    it.only('Add 5 products in the cart, validate total cart amount and individual product price both with and without discount',()=>{
+    it('Add 5 products in the cart, validate total cart amount and individual product price both with and without discount',()=>{
         let totalAmount=0
         cy.get('#block_top_menu ul li a').contains('Dresses').click({force:true})
 

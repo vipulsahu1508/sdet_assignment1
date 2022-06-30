@@ -1,0 +1,6 @@
+cypress/reports
+cypress/videos
+cypress/downloads
+
+mochawesome-report
+node_modules
